@@ -6,7 +6,7 @@
 
 ## How to use?
 
-To import a font file, use the following code:
+To import a font file, use the following URL:
 
 ```
 https://raw.githubusercontent.com/3xr-space/assets/main/fonts/archivo/Archivo-Regular.ttf
